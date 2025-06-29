@@ -1,0 +1,35 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Perrone.dev
+theme: PaperModX
+params:
+  profileMode:
+    enabled: true
+    title: "Welcome" # optional default will be site title
+    subtitle: "Ramblings of a bearded man"
+    imageUrl: "/images/perronedotdevcircle.png" # optional
+    imageTitle: "" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Archive
+        url: "/archives"
+      - name: Posts
+        url: "/posts"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+menu:
+    main:
+        - identifier: Posts
+          name: Posts
+          url: /posts/
+          weight: 10
+        - identifier: Recipes
+          name: Recipes
+          url: https://mealie.perrone.dev
+          weight: 20
