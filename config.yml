@@ -6,7 +6,7 @@ params:
   profileMode:
     enabled: true
     title: "Welcome" # optional default will be site title
-    subtitle: "Ramblings of a bearded man"
+    subtitle: "Ramblings of a Bearded Man"
     imageUrl: "/images/perronedotdevcircle.png" # optional
     imageTitle: "" # optional
     imageWidth: 120 # custom size
