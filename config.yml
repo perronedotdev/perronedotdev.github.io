@@ -38,10 +38,14 @@ menu:
         - identifier: Recipes
           name: Recipes
           url: https://mealie.perrone.dev
+          params:
+            external: true
           weight: 20
         - identifier: Notes
           name: Notes
           url: https://notes.perrone.dev
+          params:
+            external: true
           weight: 30
         - identifier: Search
           name: 🔍
