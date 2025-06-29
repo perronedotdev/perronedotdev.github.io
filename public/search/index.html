@@ -168,7 +168,7 @@ function toggleThemeListener() {
 <script>
   
   (function() {
-    const defaultTheme = 'light';
+    const defaultTheme = 'auto';
     const prefTheme = getPrefTheme();
     const theme = prefTheme ? prefTheme : defaultTheme;
 
@@ -214,6 +214,16 @@ function toggleThemeListener() {
                 >Recipes
                 </a>
             </li>
+            <li>
+                <a href="https://notes.perrone.dev/" title="Notes"
+                >Notes
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/search/" title="🔍 (Alt &#43; /)"data-no-instant accesskey=/ class="active"
+                >🔍
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -237,7 +247,15 @@ function toggleThemeListener() {
     </main>
     
 <footer class="footer">
-  <span>&copy; 2025 <a href="http://localhost:1313/">Perrone.dev</a></span></footer>
+  <span>&copy; 2025 <a href="http://localhost:1313/">Perrone.dev</a></span><span style="display: inline-block; margin-left: 1em;">
+    <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA</a>
+  </span>
+  <span style="display: inline-block; margin-left: 1em;">
+    Powered by
+    <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+    <a href="https://github.com/reorx/hugo-PaperModX/" rel="noopener" target="_blank">PaperModX</a>
+  </span>
+</footer>
 <a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
     <path d="M12 6H0l6-6z" />

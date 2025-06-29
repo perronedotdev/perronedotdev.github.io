@@ -3,6 +3,12 @@ languageCode: en-us
 title: Perrone.dev
 theme: PaperModX
 params:
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
   profileMode:
     enabled: true
     title: "Welcome" # optional default will be site title
@@ -37,3 +43,7 @@ menu:
           name: Notes
           url: https://notes.perrone.dev
           weight: 30
+        - identifier: Search
+          name: 🔍
+          url: /search/
+          weight: 40
