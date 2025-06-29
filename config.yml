@@ -33,3 +33,7 @@ menu:
           name: Recipes
           url: https://mealie.perrone.dev
           weight: 20
+        - identifier: Notes
+          name: Notes
+          url: https://notes.perrone.dev
+          weight: 30
