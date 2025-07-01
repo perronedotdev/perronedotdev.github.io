@@ -19,10 +19,10 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Archive
-        url: "/archives"
       - name: Posts
         url: "/posts"
+      - name: Tools
+        url: "/tools"
 
   assets:
     favicon: "/favicon.ico"
@@ -43,19 +43,23 @@ menu:
           name: Posts
           url: /posts/
           weight: 10
+        - identifier: Tools
+          name: Tools
+          url: /tools/
+          weight: 20
         - identifier: Recipes
           name: Recipes
           url: https://mealie.perrone.dev
           params:
             external: true
-          weight: 20
+          weight: 30
         - identifier: Notes
           name: Notes
           url: https://notes.perrone.dev
           params:
             external: true
-          weight: 30
+          weight: 40
         - identifier: Search
           name: 🔍
           url: /search/
-          weight: 40
+          weight: 50
