@@ -5,3 +5,6 @@
   --link-hover-underline-color: #FF4500;
   --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
 }
+.center {
+	text-align:center;
+}
