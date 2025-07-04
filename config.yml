@@ -14,7 +14,7 @@ params:
     enabled: true
     title: "Welcome" # optional default will be site title
     subtitle: "Ramblings of a Bearded Man"
-    imageUrl: "/images/perronedotdevcircle.png" # optional
+    imageUrl: "/perronedotdevcircle.png" # optional
     imageTitle: "" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size

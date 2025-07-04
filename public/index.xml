@@ -5,29 +5,16 @@
     <link>http://localhost:1313/</link>
     <description>Recent content on Perrone.dev</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jul 2025 14:32:31 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tools</title>
-      <link>http://localhost:1313/tools/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Welcome</title>
+      <link>http://localhost:1313/posts/2025-07-01-welcome/</link>
+      <pubDate>Tue, 01 Jul 2025 14:32:31 +0000</pubDate>
       
-      <guid>http://localhost:1313/tools/</guid>
-      <description>&lt;p class=&#34;center&#34;&gt;&lt;a href=&#34;https://ittools.perrone.dev&#34; title=&#34;Title&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/../assets/images/ittools.png&#34; type=&#34;&#34; alt=&#34;alt text&#34;  /&gt; IT-Tools&lt;/a&gt; - Useful tools for developer and people working in IT. - &lt;a href=&#34;https://github.com/CorentinTh/it-tools&#34; title=&#34;Title&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p class=&#34;center&#34;&gt;&lt;a href=&#34;https://mazanoke.perrone.dev&#34; title=&#34;Title&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/../assets/images/mazanoke.png&#34; type=&#34;&#34; alt=&#34;alt text&#34;  /&gt; Mazanoke&lt;/a&gt; - Local image optimizer that runs in your browser. - &lt;a href=&#34;https://github.com/civilblur/mazanoke&#34; title=&#34;Title&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p class=&#34;center&#34;&gt;&lt;a href=&#34;https://omnitools.perrone.dev&#34; title=&#34;Title&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/../assets/images/omnitools.png&#34; type=&#34;&#34; alt=&#34;alt text&#34;  /&gt; Omni-Tools&lt;/a&gt; - Collection of powerful web-based tools for everyday tasks. - &lt;a href=&#34;https://github.com/iib0011/omni-tools&#34; title=&#34;Title&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p class=&#34;center&#34;&gt;&lt;a href=&#34;https://pdf.perrone.dev&#34; title=&#34;Title&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/../assets/images/stirlingpdf.png&#34; type=&#34;&#34; alt=&#34;alt text&#34;  /&gt; Stirling PDF&lt;/a&gt; - Web application that allows you to perform various operations on PDF files. - &lt;a href=&#34;https://github.com/Stirling-Tools/Stirling-PDF&#34; title=&#34;Title&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p class="center"><a href="https://ittools.perrone.dev" title="Title" target="_blank" rel="noopener"><img loading="lazy" src="/../assets/images/ittools.png" type="" alt="alt text"  /> IT-Tools</a> - Useful tools for developer and people working in IT. - <a href="https://github.com/CorentinTh/it-tools" title="Title" target="_blank" rel="noopener">Github</a></p>
-<hr>
-<p class="center"><a href="https://mazanoke.perrone.dev" title="Title" target="_blank" rel="noopener"><img loading="lazy" src="/../assets/images/mazanoke.png" type="" alt="alt text"  /> Mazanoke</a> - Local image optimizer that runs in your browser. - <a href="https://github.com/civilblur/mazanoke" title="Title" target="_blank" rel="noopener">Github</a></p>
-<hr>
-<p class="center"><a href="https://omnitools.perrone.dev" title="Title" target="_blank" rel="noopener"><img loading="lazy" src="/../assets/images/omnitools.png" type="" alt="alt text"  /> Omni-Tools</a> - Collection of powerful web-based tools for everyday tasks. - <a href="https://github.com/iib0011/omni-tools" title="Title" target="_blank" rel="noopener">Github</a></p>
-<hr>
-<p class="center"><a href="https://pdf.perrone.dev" title="Title" target="_blank" rel="noopener"><img loading="lazy" src="/../assets/images/stirlingpdf.png" type="" alt="alt text"  /> Stirling PDF</a> - Web application that allows you to perform various operations on PDF files. - <a href="https://github.com/Stirling-Tools/Stirling-PDF" title="Title" target="_blank" rel="noopener">Github</a></p>
+      <guid>http://localhost:1313/posts/2025-07-01-welcome/</guid>
+      <description>&lt;p&gt;Coming Soon!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Coming Soon!</p>
 ]]></content:encoded>
     </item>
     
