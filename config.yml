@@ -12,8 +12,8 @@ params:
   ShowPostNavLinks: true
   profileMode:
     enabled: true
-    title: "Welcome" # optional default will be site title
-    subtitle: "Ramblings of a Bearded Man"
+    title: " " # optional default will be site title
+    subtitle: "The Ramblings of a Bearded Man"
     imageUrl: "/perronedotdevcircle.png" # optional
     imageTitle: "" # optional
     imageWidth: 120 # custom size
