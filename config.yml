@@ -53,16 +53,10 @@ menu:
           params:
             external: true
           weight: 30
-        - identifier: Notes
-          name: Notes
-          url: https://notes.perrone.dev
-          params:
-            external: true
-          weight: 40
         - identifier: Search
           name: 🔍
           url: /search/
-          weight: 50
+          weight: 40
 
 module:
   imports:
