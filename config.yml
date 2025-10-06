@@ -13,16 +13,16 @@ params:
   profileMode:
     enabled: true
     title: " " # optional default will be site title
-    subtitle: "The Ramblings of a Bearded Man"
+    subtitle: ""
     imageUrl: "/perronedotdevcircle.png" # optional
     imageTitle: "" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: Posts
-        url: "/posts"
       - name: Tools
         url: "/tools"
+      - name: Recipes
+        url: "https://mealie.perrone.dev"
 
   assets:
     favicon: "/favicon.ico"
@@ -39,10 +39,6 @@ outputs:
 
 menu:
     main:
-        - identifier: Posts
-          name: Posts
-          url: /posts/
-          weight: 10
         - identifier: Tools
           name: Tools
           url: /tools/
